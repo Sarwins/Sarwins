@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Developer%20Song&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Developer Song&fontSize=50)
+출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
 
 ## 👋 Song's Profiles
 Hello!! World- :)<br>

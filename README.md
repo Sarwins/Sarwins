@@ -1,6 +1,6 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Developer%20Song's%20%F0%9F%91%8B&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Developer%20Song%20%F0%9F%91%8B&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
-## 👋 Song's Profiles
+## :pushpin: Song's Profiles
 Hello!! World- :)<br>
 <img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/reoiy14@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><br>
 

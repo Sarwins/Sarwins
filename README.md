@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## 👋 Song's Profiles
 Hello!! World- :)<br>
 <img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/reoiy14@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><br>

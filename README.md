@@ -1,5 +1,8 @@
 ### 👋 Hello, World 👋
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 ### 🪄 Skills
 Platforms & Languages<br>
 <img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/reoiy14@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><br>

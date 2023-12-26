@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Developer%20Song&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=5F85BB&height=100&section=header&text=Developer%20Song&fontSize=50)
 
 ## 👋 Song's Profiles
 Hello!! World- :)<br>

@@ -1,7 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### 👋 Hello, World 👋
 <img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/reoiy14@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarwins&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarwins&show_icons=true&theme=dracula)&nbsp;&nbsp;&nbsp;
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Sarwins)](https://solved.ac/Sarwins)
 
 ## :star2: Skills
